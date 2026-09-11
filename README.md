@@ -2,26 +2,23 @@
 
 # ⚡ DINAKAR SASANK
 
-### Software Engineer · Backend Developer · AI Builder
+### SOFTWARE ENGINEER · BACKEND · AI · DISTRIBUTED SYSTEMS
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+Developer;AI+%2B+Distributed+Systems;Java+%7C+Spring+Boot+%7C+AWS;Build.+Debug.+Learn.+Ship." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=I+build+systems%2C+not+just+features.;Backend+%7C+AI+%7C+Distributed+Systems;Java+%7C+Spring+Boot+%7C+Python+%7C+AWS;Design.+Build.+Scale.+Ship.;Turning+ambiguous+problems+into+working+systems." />
 
 <br/>
 
 <a href="https://devarasasank31.github.io/">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00D9FF?style=for-the-badge&logoColor=black"/>
 </a>
-
 <a href="https://www.linkedin.com/in/dinakar-sasank31/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:sashankdevarasetty31@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://leetcode.com/u/Dinakar_sashank/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LEETCODE-300%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
@@ -32,341 +29,533 @@
 
 ---
 
-# 👨‍💻 About Me
-
-I'm an **Information Science Engineering undergraduate graduating in 2026**, focused on building reliable backend systems and AI-powered applications.
-
-My interests sit at the intersection of:
+# `$ whoami`
 
 ```text
-Backend Engineering
-        ↓
-System Design
-        ↓
-Distributed Systems
-        ↓
-AI / LLM Applications
-        ↓
-Cloud Architecture
-        ↓
-Production Engineering
+Dinakar Sasank
+────────────────────────────────────────────────────────
+
+Software Engineer focused on building reliable,
+scalable and intelligent software systems.
+
+Education     → B.E. Information Science Engineering
+Graduation    → 2026
+
+Primary Focus
+              → Backend Engineering
+              → Distributed Systems
+              → AI / LLM Applications
+              → Real-Time Systems
+              → Cloud Architecture
+              → System Design
+
+Mindset       → Understand → Design → Build → Break
+                → Debug → Optimize → Ship
 ```
 
-I enjoy taking a problem from:
+I enjoy working on problems where **software meets real-world constraints**—latency, reliability, scale, availability, automation and intelligent decision-making.
 
-**Idea → Architecture → API → Database → AI/Realtime → Cloud → Production**
+My goal isn't to collect frameworks.
 
-> I don't just want to write code that works.
-> I want to understand why it works, how it scales, and what happens when it breaks.
+> **My goal is to become the engineer you can hand a difficult problem to—and trust to figure it out.**
 
 ---
 
-# 🚀 What I Build
+# ⚡ ENGINEERING BY THE NUMBERS
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td align="center">
 
-### ⚙️ Backend Systems
+### 5,000+
 
-* REST APIs
-* Spring Boot applications
-* Microservices
-* Authentication & authorization
-* Database-driven systems
-* API optimization
-* Real-time services
+**CUSTOMERS**
 
 </td>
+<td align="center">
 
-<td width="50%">
+### 300+
 
-### 🧠 AI Applications
+**DSA PROBLEMS**
 
-* LLM applications
-* RAG systems
-* AI agents
-* OpenAI integrations
-* Computer vision
-* NLP
-* Embeddings & vector search
+</td>
+<td align="center">
+
+### 100+
+
+**USERS**
+
+</td>
+<td align="center">
+
+### 250+
+
+**CLIENT REQUESTS**
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td align="center">
 
-### ☁️ Cloud & Distributed Systems
+### 50+
 
-* AWS
-* Docker
-* Kubernetes
-* Kafka
-* Redis
-* RabbitMQ
-* Event-driven architecture
+**CONCURRENT USERS**
 
 </td>
+<td align="center">
 
-<td>
+### 30+
 
-### 🧪 Engineering
+**BACKEND ISSUES**
 
-* System design
-* DSA
-* Testing
-* CI/CD
-* Observability
-* Security
-* Performance optimization
+</td>
+<td align="center">
+
+### 1st
+
+**CYBERQUEST**
+
+</td>
+<td align="center">
+
+### 1
+
+**PUBLISHED PATENT**
 
 </td>
 </tr>
 </table>
 
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge\&logo=amazondynamodb\&logoColor=white)
-
-### AI / Machine Learning
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-
-### Cloud / DevOps
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-
-### Distributed Systems
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge\&logo=webrtc\&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+</div>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🚑 ClearPath — Digital Emergency Corridor
-
-**Real-time emergency response platform**
-
-Designed to help clear traffic before an ambulance reaches its destination.
+# 🧠 WHAT I LIKE TO BUILD
 
 ```text
-Ambulance GPS
-     ↓
-Real-Time Backend
-     ↓
-Proximity Engine
-     ↓
-Socket.IO
-     ↓
-Firebase Cloud Messaging
-     ↓
-Nearby Users Alerted
+                        REAL-WORLD PROBLEM
+                                │
+                                ▼
+                       ┌─────────────────┐
+                       │   Understand    │
+                       └────────┬────────┘
+                                │
+                                ▼
+                       ┌─────────────────┐
+                       │     Design      │
+                       └────────┬────────┘
+                                │
+                ┌───────────────┼───────────────┐
+                ▼               ▼               ▼
+             Backend           Data             AI
+                │               │               │
+                └───────────────┼───────────────┘
+                                ▼
+                       ┌─────────────────┐
+                       │     Deploy      │
+                       └────────┬────────┘
+                                │
+                                ▼
+                       ┌─────────────────┐
+                       │     Observe     │
+                       └────────┬────────┘
+                                │
+                                ▼
+                       ┌─────────────────┐
+                       │     Scale       │
+                       └────────┬────────┘
+                                │
+                                ▼
+                             SHIP 🚀
 ```
 
-**Highlights**
+### My engineering interests
 
-* 🚑 10+ ambulances GPS tracked
-* ⚡ 1-second live updates
-* 👥 50+ concurrent users
-* 🔔 Real-time FCM alerts
+**Backend**
+→ APIs · Spring Boot · Microservices · Authentication · Performance
 
-**Stack:** `Node.js` · `Socket.IO` · `Firebase` · `GPS` · `Real-Time Systems`
+**Distributed Systems**
+→ Kafka · Redis · RabbitMQ · Event-Driven Architecture · WebSockets
+
+**AI Engineering**
+→ LLMs · RAG · Agents · Embeddings · Vector Search · Computer Vision
+
+**Cloud**
+→ AWS · Docker · Kubernetes · CI/CD · Infrastructure
+
+**Data**
+→ PostgreSQL · MySQL · MongoDB · Redis · DynamoDB
+
+**Engineering Quality**
+→ Testing · Observability · Security · Performance · Reliability
 
 ---
 
-## 🌐 GramLink — Offline-First P2P Communication
+# 🚀 FEATURED SYSTEMS
 
-A decentralized communication system using **WebRTC mesh networking**.
+## 🚑 01 — CLEARPATH
+
+### Digital Emergency Corridor
+
+> **When an ambulance moves, every second matters.**
+
+A real-time emergency-response platform designed to help notify nearby road users and improve traffic clearance for ambulances.
 
 ```text
-Peer A
- ↕
-Peer B ←→ Peer C
- ↕        ↕
-Peer D ←→ Peer E
+                     🚑 AMBULANCE
+                          │
+                          │ GPS
+                          ▼
+                 ┌─────────────────┐
+                 │ REAL-TIME SERVER│
+                 └────────┬────────┘
+                          │
+                ┌─────────┴─────────┐
+                ▼                   ▼
+        ┌───────────────┐   ┌───────────────┐
+        │ LIVE TRACKING │   │   PROXIMITY   │
+        │   DASHBOARD   │   │    ENGINE     │
+        └───────┬───────┘   └───────┬───────┘
+                │                   │
+                ▼                   ▼
+           Socket.IO              FCM
+                │                   │
+                └─────────┬─────────┘
+                          ▼
+                  🚨 USERS ALERTED
 ```
 
-Designed to continue communication without depending on a traditional centralized server.
+### Engineering
 
-**Stack:** `WebRTC` · `Service Workers` · `IndexedDB` · `Mesh Networking`
+| Metric               |            Result |
+| -------------------- | ----------------: |
+| Ambulances tracked   |           **10+** |
+| Live update interval |      **1 second** |
+| Concurrent users     |           **50+** |
+| Notifications        | **Real-time FCM** |
+
+**Stack**
+
+`Node.js` · `Socket.IO` · `Firebase` · `GPS` · `Real-Time Systems`
+
+**Why I built it**
+
+Most applications optimize for convenience.
+
+ClearPath was designed around a different constraint:
+
+> **Latency has consequences.**
 
 ---
 
-## 🕵️ Deepfake Detector
+# 🌐 02 — GRAMLINK
 
-AI-powered image-forensics application for detecting manipulation indicators.
+### Offline-First Peer-to-Peer Communication
 
-**Highlights**
+> **What happens when the server disappears?**
 
-* 500+ images analyzed
-* 35% faster processing
-* EXIF metadata analysis
-* Computer vision pipeline
-
-**Stack:** `Python` · `OpenCV` · `Streamlit` · `EXIF`
-
----
-
-## 🤖 AI Job Application Assistant
-
-Chrome extension designed to reduce repetitive job-application work.
+GramLink explores decentralized communication using **WebRTC mesh networking**, local persistence and browser capabilities.
 
 ```text
-Job Found
-   ↓
-Track Application
-   ↓
-Analyze Resume
-   ↓
-Match Job
-   ↓
-Manage Status
+                     ┌──────────┐
+                     │  PEER A  │
+                     └────┬─────┘
+                          │
+                     WebRTC Mesh
+                  ╱       │       ╲
+                 ▼        ▼        ▼
+            ┌────────┐ ┌────────┐ ┌────────┐
+            │ PEER B │ │ PEER C │ │ PEER D │
+            └────────┘ └────────┘ └────────┘
+```
+
+### Engineering
+
+* Peer-to-peer communication
+* Offline persistence
+* Service Workers
+* IndexedDB
+* WebRTC mesh networking
+* Low-latency communication
+
+**20+ concurrent peers**
+
+**Stack**
+
+`WebRTC` · `JavaScript` · `Service Workers` · `IndexedDB`
+
+### The interesting part
+
+Instead of asking:
+
+> "How do I make a better server?"
+
+I explored:
+
+> **"What if I don't need one?"**
+
+---
+
+# 🕵️ 03 — DEEPFAKE DETECTOR
+
+### AI Image Forensics
+
+> **Pixels can lie. Metadata can leave clues.**
+
+An image-forensics application designed to analyze images for manipulation indicators using computer vision and metadata analysis.
+
+```text
+IMAGE
+  │
+  ├───────────────┐
+  ▼               ▼
+EXIF            PIXELS
+  │               │
+  │          ┌────┴────┐
+  │          ▼         ▼
+  │       OpenCV   Image Analysis
+  │          │         │
+  └──────────┴────┬────┘
+                  ▼
+             ANALYSIS
+                  │
+                  ▼
+             RESULT 🔎
+```
+
+### Results
+
+**500+ images analyzed**
+
+**35% faster processing**
+
+**Stack**
+
+`Python` · `OpenCV` · `Streamlit` · `EXIF` · `Computer Vision`
+
+---
+
+# 🤖 04 — AI JOB APPLICATION ASSISTANT
+
+### Chrome Extension
+
+> **Applying to 100 jobs shouldn't mean managing 100 browser tabs.**
+
+An AI-powered browser extension designed to reduce repetitive job-search and application workflows.
+
+```text
+JOB DISCOVERED
+      │
+      ▼
+┌───────────────┐
+│ TRACK JOB     │
+└───────┬───────┘
+        ▼
+┌───────────────┐
+│ ANALYZE RESUME│
+└───────┬───────┘
+        ▼
+┌───────────────┐
+│ MATCH ROLE    │
+└───────┬───────┘
+        ▼
+┌───────────────┐
+│ TRACK STATUS  │
+└───────────────┘
 ```
 
 **100+ users**
 
-**Stack:** `JavaScript` · `Chrome Extensions` · `AI` · `Automation`
+**Stack**
+
+`JavaScript` · `Chrome Extensions` · `AI` · `Automation`
 
 ---
 
-# 💼 Experience
+# 💼 EXPERIENCE
 
-### Software Development Engineer — Rayaak Technologies
+## Software Development Engineer
 
-**2026**
+### Rayaak Technologies · 2026
 
-* Built backend services for a travel platform
-* Supported systems serving 5,000+ customers
-* Developed REST APIs
-* Optimized SQL queries
-* Worked on booking and travel package systems
+Building backend services for a travel platform serving **5,000+ customers**.
 
-### AI Intern — LearnersByte
+```text
+REST APIs
+   │
+   ├── Booking Systems
+   ├── Travel Packages
+   ├── Database Operations
+   └── Query Optimization
+```
 
-**2025**
+**Focus:** Backend Engineering · APIs · SQL · Production Systems
 
-* Built Python/Flask APIs
+---
+
+## AI Intern
+
+### LearnersByte · 2025
+
+Worked on AI-powered backend workflows and API integrations.
+
+* Built Python / Flask APIs
 * Integrated OpenAI APIs
-* Processed 250+ client requests
-* Improved workflow efficiency by 35%
-* Resolved 30+ backend issues
+* Processed **250+ client requests**
+* Improved workflow efficiency by **35%**
+* Resolved **30+ backend issues**
 
-### Java Programming Intern — CodSoft
-
-**2024**
-
-* Core Java
-* Object-Oriented Programming
-* Collections
-* JDBC
-* File handling
-* Exception handling
+**Focus:** Python · Flask · APIs · AI Integration
 
 ---
 
-# 🏆 Achievements
+## Java Programming Intern
 
-| Achievement                  | Result                          |
-| ---------------------------- | ------------------------------- |
-| 🥇 CyberQuest Hackathon 2024 | **1st Place — 300+ teams**      |
-| 🥈 HSBC Ideathon 2025        | **Runner-Up**                   |
-| 📜 Published Patent          | **Innovation with BITS Pilani** |
-| 🧠 DSA                       | **300+ problems solved**        |
+### CodSoft · 2024
+
+Worked with:
+
+`Java` · `OOP` · `Collections` · `JDBC` · `Exception Handling` · `File Handling`
 
 ---
 
-# 🧠 Problem Solving
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Dinakar_sashank/">
+### 🥇 CYBERQUEST HACKATHON — 2024
 
-![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)
+**1st Place**
 
-</a>
+Selected as the winning team among **300+ teams at DSATM**.
 
-<a href="https://github.com/devarasasank31">
+---
 
-![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge\&logo=github\&logoColor=white)
+### 🥈 HSBC IDEATHON — 2025
 
-</a>
+**Runner-Up**
+
+---
+
+### 📜 PUBLISHED PATENT
+
+Innovation developed in collaboration with **BITS Pilani**.
+
+---
+
+### 🧠 PROBLEM SOLVING
+
+**300+ DSA problems**
+
+`LeetCode` · `Codeforces`
 
 </div>
 
-My problem-solving approach:
+---
 
-```text
-UNDERSTAND
-     ↓
-BREAK DOWN
-     ↓
-DESIGN
-     ↓
-IMPLEMENT
-     ↓
-TEST
-     ↓
-DEBUG
-     ↓
-OPTIMIZE
-     ↓
-SHIP
+# 🧬 TECHNOLOGY DNA
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,bash&theme=dark"/>
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask&theme=dark"/>
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark"/>
+
+### DATABASES
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark"/>
+
+### CLOUD & DEVOPS
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,nginx,linux&theme=dark"/>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark"/>
+
+</div>
+
+---
+
+# ⚙️ SYSTEMS TOOLBOX
+
+```yaml
+Backend:
+  - Java
+  - Spring Boot
+  - Spring Security
+  - REST APIs
+  - Microservices
+
+Distributed:
+  - Apache Kafka
+  - RabbitMQ
+  - Redis
+  - WebSockets
+  - WebRTC
+  - Event Driven Architecture
+
+AI:
+  - OpenAI
+  - LLMs
+  - RAG
+  - AI Agents
+  - Embeddings
+  - Vector Search
+  - Computer Vision
+  - NLP
+
+Cloud:
+  - AWS EC2
+  - AWS S3
+  - AWS Lambda
+  - AWS RDS
+  - AWS DynamoDB
+  - AWS API Gateway
+  - AWS CloudWatch
+
+DevOps:
+  - Docker
+  - Kubernetes
+  - Terraform
+  - GitHub Actions
+  - Nginx
+  - Linux
+
+Quality:
+  - JUnit
+  - Mockito
+  - Jest
+  - Playwright
+  - Postman
+  - Testing
+  - Observability
 ```
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GITHUB COMMAND CENTER
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devarasasank31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarasasank31&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=devarasasank31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <br/>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarasasank31&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=devarasasank31&theme=tokyonight&hide_border=true"/>
 
@@ -374,67 +563,131 @@ SHIP
 
 ---
 
-# 📈 Contribution Graph
+# 🧠 HOW I SOLVE PROBLEMS
 
-<div align="center">
+```java
+public class Engineer {
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devarasasank31&theme=tokyo-night&hide_border=true"/>
+    public Solution solve(Problem problem) {
 
-</div>
+        problem.understand();
+
+        Architecture architecture =
+                design(problem);
+
+        Solution solution =
+                build(architecture);
+
+        solution.test();
+
+        while (!solution.isReliable()) {
+            solution.debug();
+            solution.optimize();
+        }
+
+        solution.ship();
+
+        return solution;
+    }
+}
+```
+
+### My loop
+
+```text
+UNDERSTAND
+     ↓
+DESIGN
+     ↓
+BUILD
+     ↓
+BREAK
+     ↓
+DEBUG
+     ↓
+OPTIMIZE
+     ↓
+SHIP
+     ↓
+LEARN
+     ↺
+```
 
 ---
 
-# 🔬 Currently Learning
+# 🔬 CURRENTLY EXPLORING
 
 ```text
 ☕ Advanced Spring Boot
-        ↓
+        │
+        ▼
 🏗️ System Design
-        ↓
+        │
+        ▼
 🌐 Distributed Systems
-        ↓
+        │
+        ▼
 ☁️ AWS Architecture
-        ↓
+        │
+        ▼
 🧠 Advanced DSA
-        ↓
-⚙️ Production Backend Engineering
+        │
+        ▼
+⚙️ Production Engineering
+        │
+        ▼
+🤖 AI-powered Backend Systems
 ```
 
 ---
 
-# 🎯 Engineering Philosophy
+# 🎯 THE ENGINEERING MISSION
 
-> **Don't just make it work. Understand why it works.**
+I don't want to be the engineer who knows the most technologies.
 
-I want to become the engineer who can take:
+I want to be the engineer who can take:
 
 ```text
-"We have a problem."
-        ↓
-Understand it
-        ↓
-Design the system
-        ↓
-Build the solution
-        ↓
-Make it reliable
-        ↓
-Scale it
-        ↓
-Ship it
+        "We have a problem."
+                 │
+                 ▼
+          UNDERSTAND IT
+                 │
+                 ▼
+           DESIGN IT
+                 │
+                 ▼
+            BUILD IT
+                 │
+                 ▼
+            TEST IT
+                 │
+                 ▼
+            SCALE IT
+                 │
+                 ▼
+            SHIP IT
 ```
+
+And turn **ambiguity into a reliable system.**
 
 ---
 
-# 🌐 Portfolio
+# 🌐 WANT TO SEE MORE?
 
 <div align="center">
-
-### Want to see the complete version?
 
 <a href="https://devarasasank31.github.io/">
 
-<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/🚀%20OPEN%20MY%20PORTFOLIO-00D9FF?style=for-the-badge&logoColor=black"/>
+
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/devarasasank31?tab=repositories">
+
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -442,35 +695,35 @@ Ship it
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 LET'S BUILD
 
 <div align="center">
 
+### Interested in building difficult things?
+
+**Software Engineering · Backend · AI · Cloud · Distributed Systems**
+
+<br/>
+
 <a href="mailto:sashankdevarasetty31@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dinakar-sasank31/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/devarasasank31">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Dinakar_sashank/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 ### ⚡ BUILD → BREAK → DEBUG → LEARN → SHIP → REPEAT
 
-**Dinakar Sasank**
+<br/>
+
+**DINAKAR SASANK**
 
 *"Engineering isn't about writing more code. It's about solving better problems."*
 
